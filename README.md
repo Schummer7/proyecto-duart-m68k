@@ -1,4 +1,4 @@
-# proyecto-duart-m68k
+# Ensamblador-duart-m68k
 # Controlador E/S por Interrupciones — DUART MC68681 (Motorola 68000)
 
 Proyecto académico de la asignatura Arquitectura de Computadores (curso 2025–2026).
